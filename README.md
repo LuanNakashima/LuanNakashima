@@ -19,6 +19,10 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=50px />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height=50px />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50px />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height=50px />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50px />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=50px />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />
   </div>
   
   <div>
@@ -26,7 +30,9 @@
   </div>
   
   <div>
-    <a href="uuuuuuuuu" target="_blank" >👤Portfólio</a>
+    Informações de Contato
+    <h6>Celular: (12) 97405-3756<h6 />
+    <h6>Email: luan.nakashima@gmail.com<h6 />
   </div>
 </div>
   
