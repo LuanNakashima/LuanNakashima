@@ -33,6 +33,7 @@
     Informações de Contato
     <h6>Celular: (12) 97405-3756<h6 />
     <h6>Email: luan.nakashima@gmail.com<h6 />
+    <h6>Portólio: https://portoflio-beta.vercel.app/<h6 />
   </div>
 </div>
   
